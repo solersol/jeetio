@@ -41,7 +41,7 @@ const App = () => {
     return <LoadingScreen />;
   }
 return(
-  <main className="relative bg-[#4848c0]" >
+  <main className="relative bg-[#81061d]" >
     <Nav />
     {/* <section className="w-full h-screen bg-cover bg-center " style={{ backgroundImage: `url(${main3})` }}><ComingSoon /></section> */}
    

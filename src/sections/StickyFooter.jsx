@@ -7,13 +7,13 @@ const StickyFooter = () => {
   return (
     <footer className="w-full h-full bottom-0 left-0 right-0  py-4 flex flex-col px-11  justify-start z-50 bg-transparent">
       <div className=" flex justify-center  space-x-4 mb-4">
-        <a href="https://x.com/JeetardioSol">
+        <a href="https://x.com/AverageTronUser">
           <img src={img1} alt="Image 1" className="w-16 h-16 sm:w-12 sm:h-12 transition-transform transform hover:scale-125" />
         </a>
-        <a href="https://pump.fun/6XMSpXKNdRe7VzCAYWaqAhdaq6QYUavNx2Wyo3YMpump">
+        <a href="https://pump.fun/">
           <img src={img2} alt="Image 2" className="w-16 h-16 sm:w-12 sm:h-12 transition-transform transform hover:scale-125" />
         </a>
-        <a href="https://t.me/JeetNowcrylater">
+        <a href="https://t.me/AverageTronHolder">
           <img src={img3} alt="Image 3" className="w-16 h-16 sm:w-12 sm:h-12 transition-transform transform hover:scale-125" />
         </a>
       </div>
